@@ -22,3 +22,8 @@ time to explore.
 We decided to not explore the rest of the date attributes (like first and last funding rounds) as some company might get a funding round in a short period of time compared to the inital funding round due to it being easier to get rounds if someone has already invested. This is a limitation to our project because we could ave gained additional insight
 about a company's performance. This limitation could be ommited by feature engineering the date variables and performing futher analysis in the future.
 
+# File
+1. MSIN0413_2021_Group_M2.ipynb = Jupyter Notebook file for the project
+2. VC Startup BA.pdf = PDF Version of Notebook
+3. Cleaned_Data.csv = Data used for analysis (after cleaning)
+4. Obtained Data = https://www.kaggle.com/justinas/startup-investments?select=offices.csv
